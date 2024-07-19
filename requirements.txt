@@ -1,0 +1,6 @@
+Flask
+flask-session
+SQLAlchemy
+Flask-SQLAlchemy
+mysqlclient
+flask-RESTful
